@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\24\\WebApplicationTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11304FAB-9162-31FB-7C06-2E962235C8BB}|WebApplicationTest.csproj|c:\\24\\webapplicationtest\\controllers\\leadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11304FAB-9162-31FB-7C06-2E962235C8BB}|WebApplicationTest.csproj|solutionrelative:controllers\\leadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A404D8B-686D-1C8B-884F-CA866F2737AB}|..\\BackEndServices\\BackEndServices.csproj|c:\\24\\backendservices\\email\\backcallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A404D8B-686D-1C8B-884F-CA866F2737AB}|..\\BackEndServices\\BackEndServices.csproj|c:\\24\\backendservices\\email\\smtpprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11304FAB-9162-31FB-7C06-2E962235C8BB}|WebApplicationTest.csproj|c:\\24\\webapplicationtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11304FAB-9162-31FB-7C06-2E962235C8BB}|WebApplicationTest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmtpProvider.cs",
+              "DocumentMoniker": "C:\\24\\BackEndServices\\Email\\SmtpProvider.cs",
+              "RelativeDocumentMoniker": "..\\BackEndServices\\Email\\SmtpProvider.cs",
+              "ToolTip": "C:\\24\\BackEndServices\\Email\\SmtpProvider.cs",
+              "RelativeToolTip": "..\\BackEndServices\\Email\\SmtpProvider.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T09:18:26.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackCallService.cs",
+              "DocumentMoniker": "C:\\24\\BackEndServices\\Email\\BackCallService.cs",
+              "RelativeDocumentMoniker": "..\\BackEndServices\\Email\\BackCallService.cs",
+              "ToolTip": "C:\\24\\BackEndServices\\Email\\BackCallService.cs",
+              "RelativeToolTip": "..\\BackEndServices\\Email\\BackCallService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T08:46:54.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\24\\WebApplicationTest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\24\\WebApplicationTest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T08:45:46.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeadController.cs",
+              "DocumentMoniker": "C:\\24\\WebApplicationTest\\Controllers\\LeadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeadController.cs",
+              "ToolTip": "C:\\24\\WebApplicationTest\\Controllers\\LeadController.cs",
+              "RelativeToolTip": "Controllers\\LeadController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T14:05:43.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
